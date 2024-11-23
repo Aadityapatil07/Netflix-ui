@@ -17,6 +17,3 @@ style.css - Contains all the styling and responsive rules.
 📝 How to Use
 Clone the repository: git clone https://github.com/your-username/netflix-homepage-clone.git
 Open index.html in your web browser.
-
-🌟 Contributions
-Feel free to fork the project, submit issues, or make pull requests to improve the design!
