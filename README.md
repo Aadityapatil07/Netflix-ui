@@ -15,5 +15,5 @@ index.html - Main HTML file with the homepage layout.
 style.css - Contains all the styling and responsive rules.
 
 📝 How to Use
-Clone the repository: git clone https://github.com/your-username/netflix-homepage-clone.git
+Clone the repository: git clone https://github.com/Aadityapatil07/netflix-homepage-clone.git
 Open index.html in your web browser.
